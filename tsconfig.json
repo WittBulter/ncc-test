@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "removeComments": true,
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "compileOnSave": false,
+  "files": [
+    "app.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
